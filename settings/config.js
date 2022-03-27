@@ -9,7 +9,7 @@ global.anti_delete = false
 // setting
 global.ownername ="LαrαsChαnn"
 global.ownernumber = "6285759662798"
-global.botname = "Rαsz Botz✿ 𖠌⁩"
+global.botname = "R α s z Ᏼo͢Ꭲ✿ 𖠌⁩"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'ohyziroXkey' //register lolhuman.xyz klo mau apikey
